@@ -29,7 +29,8 @@
 #include <stdarg.h>
 #include <stdio.h>
 #include <string.h>
-#include <unistd.h>
+// #include <unistd.h>
+#include <types.h>
 
 #include "py/parsenum.h"
 #include "py/compile.h"

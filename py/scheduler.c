@@ -24,7 +24,7 @@
  * THE SOFTWARE.
  */
 
-#include <stdio.h>
+// #include <stdio.h>
 
 #include "py/mphal.h"
 #include "py/runtime.h"

@@ -24,7 +24,7 @@
  * THE SOFTWARE.
  */
 
-#include <stdio.h>
+// #include <stdio.h>
 
 #include "py/builtin.h"
 #include "py/stackctrl.h"

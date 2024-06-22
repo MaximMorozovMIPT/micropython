@@ -24,9 +24,9 @@
  * THE SOFTWARE.
  */
 
-#include <stdlib.h>
-#include <stdio.h>
-#include <assert.h>
+// #include <stdlib.h>
+// #include <stdio.h>
+// #include <assert.h>
 
 #include "py/parsenum.h"
 #include "py/runtime.h"

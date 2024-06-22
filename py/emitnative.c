@@ -42,9 +42,9 @@
 
 // for x in l[0:8]: can be compiled into a native loop if l has pointer type
 
-#include <stdio.h>
-#include <string.h>
-#include <assert.h>
+// #include <stdio.h>
+// #include <string.h>
+// #include <assert.h>
 
 #include "py/emit.h"
 #include "py/nativeglue.h"

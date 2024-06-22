@@ -25,8 +25,8 @@
  * THE SOFTWARE.
  */
 
-#include <stdlib.h>
-#include <string.h>
+// #include <stdlib.h>
+// #include <string.h>
 
 #include "py/smallint.h"
 #include "py/objint.h"

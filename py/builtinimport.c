@@ -26,9 +26,9 @@
  * THE SOFTWARE.
  */
 
-#include <stdio.h>
-#include <string.h>
-#include <assert.h>
+// #include <stdio.h>
+// #include <string.h>
+// #include <assert.h>
 
 #include "py/compile.h"
 #include "py/objmodule.h"

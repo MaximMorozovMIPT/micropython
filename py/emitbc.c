@@ -28,7 +28,7 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <string.h>
-#include <unistd.h>
+#include <types.h>
 #include <assert.h>
 
 #include "py/mpstate.h"

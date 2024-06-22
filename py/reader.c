@@ -25,7 +25,7 @@
  */
 
 #include <stdio.h>
-#include <assert.h>
+// #include <assert.h>
 
 #include "py/runtime.h"
 #include "py/mperrno.h"

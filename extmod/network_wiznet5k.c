@@ -24,10 +24,10 @@
  * THE SOFTWARE.
  */
 
-#include <stdio.h>
-#include <stdint.h>
-#include <string.h>
-#include <stdlib.h>
+// #include <stdio.h>
+// #include <stdint.h>
+// #include <string.h>
+// #include <stdlib.h>
 
 #include "py/runtime.h"
 #include "py/stream.h"

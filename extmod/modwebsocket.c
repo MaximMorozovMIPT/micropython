@@ -24,9 +24,9 @@
  * THE SOFTWARE.
  */
 
-#include <stdio.h>
-#include <stdint.h>
-#include <string.h>
+// #include <stdio.h>
+// #include <stdint.h>
+// #include <string.h>
 
 #include "py/runtime.h"
 #include "py/stream.h"
